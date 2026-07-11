@@ -13,12 +13,12 @@ Passionate **AI Engineer** focused on building intelligent AI-powered applicatio
 
 🎯 **Goal:** To become a skilled AI Engineer and contribute to impactful AI products and scalable intelligent systems.
 
-📫 **Reach me at:** **[shaziyafkhan0516@gmail.com](mailto:shaziyafkhan0516@gmail.com) & linkedin.com/in/shaziya-khan-05s04 **
+📫 **Reach me at:** **[shaziyafkhan0516@gmail.com](mailto:shaziyafkhan0516@gmail.com)**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/shaziya-khan-05s04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaziya-khan-05s04/" height="30" width="40" /></a>
+<a href="linkedin.com/in/shaziya-khan-05s04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shaziya-khan-05s04/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
