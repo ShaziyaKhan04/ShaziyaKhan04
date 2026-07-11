@@ -5,7 +5,7 @@
 
 ## Hi there 👋 I'm Shaziya Khan
 
-🚀 Passionate **AI Engineer** focused on building intelligent AI-powered applications using **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents**.
+Passionate **AI Engineer** focused on building intelligent AI-powered applications using **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents**.
 
 💡 I enjoy exploring real-world AI solutions, learning new technologies, and creating projects that solve practical problems. I'm continuously improving my skills in AI, Machine Learning, Cloud, and MLOps while building a strong developer portfolio.
 
@@ -13,7 +13,7 @@
 
 🎯 **Goal:** To become a skilled AI Engineer and contribute to impactful AI products and scalable intelligent systems.
 
-📫 **Reach me at:** **[shaziyafkhan0516@gmail.com](mailto:shaziyafkhan0516@gmail.com)**
+📫 **Reach me at:** **[shaziyafkhan0516@gmail.com](mailto:shaziyafkhan0516@gmail.com) & linkedin.com/in/shaziya-khan-05s04 **
 
 
 <h3 align="left">Connect with me:</h3>
