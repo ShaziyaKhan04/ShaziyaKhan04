@@ -7,7 +7,7 @@
 
 Passionate **AI Engineer** focused on building intelligent AI-powered applications using **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents**.
 
-💡 I enjoy exploring real-world AI solutions, learning new technologies, and creating projects that solve practical problems. I'm continuously improving my skills in AI, Machine Learning, Cloud, and MLOps while building a strong developer portfolio.
+💡 I enjoy exploring real-world AI solutions, learning new technologies, and creating projects that solve practical problems. I'm continuously improving my skills in AI, Machine Learning, Cloud,  MLOps and Data Analysis while building a strong developer portfolio.
 
 🌱 **Currently Learning:** AI Engineering, AI Agents, Generative AI, Prompt Engineering, RAG, LangChain, LangGraph, MLOps, Cloud Technologies (AWS), and the complete AI Engineer Roadmap.
 
@@ -18,7 +18,9 @@ Passionate **AI Engineer** focused on building intelligent AI-powered applicatio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/shaziya-khan-05s04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shaziya-khan-05s04/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaziya-khan-05s04/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shaziya Khan LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
